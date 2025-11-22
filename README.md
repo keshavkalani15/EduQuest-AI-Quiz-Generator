@@ -56,8 +56,8 @@ EduQuest/
 ## ⚙️ Installation & Setup Guide
 ### 1. Clone the Repository
 ```bash
-git clone 
-cd EduQuest
+git clone https://github.com/keshavkalani15/EduQuest-AI-Quiz-Generator.git
+cd EduQuest-AI-Quiz-Generator
 ```
 
 ### 2. Install Dependencies
@@ -92,4 +92,4 @@ python app.py
 * Interaction: The frontend renders the quiz; JavaScript handles the "Submit" logic to calculate scores instantly without reloading the page.
 
 ## 📜 License
-This project was developed for educational purposes as a PBL-II project.
+This project was developed for educational purposes as a PBL project.
